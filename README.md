@@ -4,8 +4,8 @@
 
 ##### **👤 About me：**
 
-I'm an independent developer with deep experience in Minecraft-related technologies.  
-Currently exploring the world of ML & AI.
+I was a independent developer with deep experience in Minecraft-related technologies, previously.
+I'm an independent ML/AI researcher, now.
 
 ------
 
